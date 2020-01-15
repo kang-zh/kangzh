@@ -5,7 +5,7 @@ type: about
 
 ## About Me
 
-[@kangzh](https://github.com/kang-zh)   希望尽己所能，把周围塑造成自己想见的样子。
+[@kangzh](https://github.com/kang-zh)   静于心，简其行。
 
 近一年常在思索的问题有：
 
