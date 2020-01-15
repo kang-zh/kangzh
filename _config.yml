@@ -5,8 +5,8 @@
 
 # Site
 title: kangzh's 博客
-subtitle:
-description: 静于心，简于行，学习笔记
+subtitle: 学习过程记录与痕迹
+description: 此心拖泥带水
 author: kangzh
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -84,10 +84,10 @@ keywords: "kangzh的博客"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss:false
 
 # Specify the date when the site was setup
-since: 2018
+since: 2017
 
 # icon between year and author @Footer
 authoricon: heart
@@ -118,7 +118,7 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories/
+  categories: /categories/
   archives: /archives/
   tags: /tags/
   about: /about/
@@ -235,7 +235,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar:
+avatar: http://cdn.fzopt.com/img/psuCAC7BMNJ.png
 
 
 # Table Of Contents in the Sidebar
@@ -258,16 +258,16 @@ creative_commons: by-sa
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: left
-  #position: right
+  #position: left
+  position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
-  display: post
-  #display: always
+  #display: post
+  display: always
   #display: hide
   #display: remove
 
