@@ -84,10 +84,10 @@ keywords: "kangzh的博客"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:false
+rss: false
 
 # Specify the date when the site was setup
-since: 2017
+since:
 
 # icon between year and author @Footer
 authoricon: heart
@@ -118,10 +118,10 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  categories: /categories/
-  archives: /archives/
-  tags: /tags/
-  about: /about/
+  categories: /categories
+  archives: /archives
+  tags: /tags
+  about: /about
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -151,8 +151,8 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
-#scheme: Mist
+#scheme: Muse
+scheme: Mist
 #scheme: Pisces
 
 
@@ -235,7 +235,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: http://cdn.fzopt.com/img/psuCAC7BMNJ.png
+avatar: http://cdn.fzopt.com/img/77389445.jpeg
 
 
 # Table Of Contents in the Sidebar
@@ -395,11 +395,11 @@ wildfire:
   # version - It's recommended to use the following versions.
   loaderVersion: 1.2.5 # https://www.npmjs.com/package/wildfire-comment
   useDev: true
-  version: 0.5.6 
+  version: 0.5.6
   # database config
   databaseProvider: firebase # or wilddog
   firebase: # your firebase config goes here ↓
-    apiKey: 
+    apiKey:
     authDomain:
     databaseURL:
     projectId:
@@ -410,8 +410,8 @@ wildfire:
   # other configs
   theme: light # or dark
   locale: zh-CN # or other locales, e.g. en
-  defaultAvatarURL: 
-# Any question? 
+  defaultAvatarURL:
+# Any question?
 # Raise an issue here: https://github.com/cheng-kang/wildfire/issues
 # </wildfire>
 
