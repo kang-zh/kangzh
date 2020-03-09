@@ -118,7 +118,7 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  categories: /categories
+  #categories: /categories
   archives: /archives
   tags: /tags
   about: /about
@@ -235,7 +235,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: http://cdn.fzopt.com/img/77389445.jpeg
+avatar: /assets/images/smile1.png
 
 
 # Table Of Contents in the Sidebar
