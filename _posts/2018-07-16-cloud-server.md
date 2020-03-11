@@ -8,14 +8,15 @@ tags: 网站
 
 
 
-![](https://raw.githubusercontent.com/kang-zh/yunimage/master/img/%E6%88%AA%E5%B1%8F2020-01-07%E4%B8%8B%E5%8D%887.12.46.png)
-<center>该图片由<a href="https://pixabay.com/zh/users/bsdrouin-5016447/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2402637">Bethany Drouin</a>在<a href="https://pixabay.com/zh/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2402637">Pixabay</a>上发布</center>
+![](https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/network-2402637.jpg?imageMogr2/size-limit/100k!)
+
 > 互联网底层支撑基础设施；类似于国家发展的 “铁、公、基”
+
 <!--more-->
 
-# 初步了解云服务器
 
-## (一）云虚拟机、VPS
+
+## 云虚拟机、VPS
 
 -------
 
@@ -33,7 +34,7 @@ VPS也是虚拟服务器，它是在服务器上划分出来一部分资源搭�
 
 虚拟主机自带运行环境，免去了客户自己维护服务器的繁琐，主要用于初学者；
 
-## (二）轻量应用服务器
+## 轻量应用服务器
 
 -------
 
@@ -48,7 +49,7 @@ VPS也是虚拟服务器，它是在服务器上划分出来一部分资源搭�
 
 
 
-## (三）云服务器
+## 云服务器
 
 -------
 
@@ -86,7 +87,7 @@ VPS也是虚拟服务器，它是在服务器上划分出来一部分资源搭�
 腾讯云云服务器 (Cloud Virtual Machine，CVM) 是在云中提供可扩展的计算服务，避免了使用传统服务器时需要预估资源用量及前期投入的情况。通过使用腾讯云 CVM ，您可以在短时间内快速启动任意数量的云服务器并即时部署应用程序。腾讯云 CVM 支持用户自定义一切资源：CPU、内存、硬盘、网络、安全等等，并可在访问量和负载等需求发生变化时轻松地调整它们。
 
 
-## (四）区别
+## 区别
 
 -------
 
@@ -188,7 +189,7 @@ cvm是普遍的虚拟云服务器统称，是一种简单高效、安全可靠�
 
 
 
-## (五）补充资料
+## 补充资料
 
 -------
 
@@ -211,11 +212,19 @@ cvm是普遍的虚拟云服务器统称，是一种简单高效、安全可靠�
 
 
 
-## (六）参考资料
+## 参考资料
 
 -------
 
-1、数据来源[阿里 ECS](https://ecs-buy.aliyun.com/simple/#/simple)、[腾讯 CVM](https://ecs-buy.aliyun.com/simple/#/simple)
-2、[云服务器CVM功能概述](https://cloud.tencent.com/developer/information/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8CVM%E5%8A%9F%E8%83%BD%E6%A6%82%E8%BF%B0)
-3、[云服务器](https://baike.baidu.com/item/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/6392664)
-4、[细说阿里云ECS和腾讯云 CVM服务器的区别](http://www.gongya.net/post/51.html)
+- 1、数据来源[阿里 ECS](https://ecs-buy.aliyun.com/simple/#/simple)、[腾讯 CVM](https://ecs-buy.aliyun.com/simple/#/simple)
+- 2、[云服务器CVM功能概述](https://cloud.tencent.com/developer/information/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8CVM%E5%8A%9F%E8%83%BD%E6%A6%82%E8%BF%B0)
+- 3、[云服务器](https://baike.baidu.com/item/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/6392664)
+- 4、[细说阿里云ECS和腾讯云 CVM服务器的区别](http://www.gongya.net/post/51.html)
+
+
+## CHANGELOG 
+
+- 200310 更新数据及资料
+- 190823 重新整理
+- 180716 整理发布到 blog
+- 170412 创建
