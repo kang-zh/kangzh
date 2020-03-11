@@ -2,13 +2,13 @@
 layout: post
 title: 初步了解云服务器
 categories: 
-tags: website
+tags: 网站
 ---
 
 
 
 
-![](http://cdn.fzopt.com/blog/network-2402637.jpg?imageMogr2/size-limit/100k!)
+![](http://cdn.fzopt.com/blog/network-2402637.jpg)
 <center>该图片由<a href="https://pixabay.com/zh/users/bsdrouin-5016447/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2402637">Bethany Drouin</a>在<a href="https://pixabay.com/zh/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2402637">Pixabay</a>上发布</center>
 > 互联网底层支撑基础设施；类似于国家发展的 “铁、公、基”
 <!--more-->
