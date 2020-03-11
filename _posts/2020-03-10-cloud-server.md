@@ -8,7 +8,7 @@ tags: 网站
 
 
 
-![](http://cdn.fzopt.com/blog/network-2402637.jpg)
+![](https://raw.githubusercontent.com/kang-zh/yunimage/master/img/%E6%88%AA%E5%B1%8F2020-01-07%E4%B8%8B%E5%8D%887.12.46.png)
 <center>该图片由<a href="https://pixabay.com/zh/users/bsdrouin-5016447/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2402637">Bethany Drouin</a>在<a href="https://pixabay.com/zh/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2402637">Pixabay</a>上发布</center>
 > 互联网底层支撑基础设施；类似于国家发展的 “铁、公、基”
 <!--more-->
