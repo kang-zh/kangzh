@@ -12,18 +12,16 @@ categories:
 
 <blockquote class="blockquote-center">工具是辅助，输出作品才是目的。 </blockquote>
 
-<!-- more -->
 
+<center> ![知识创造层次的图](https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/InfoKonwledgeCreate.png) </center>
 
-
-
+<center> 知识创造各层级的区别 </center>
 
 >知识创造，可以分成三个层级：卡片、文件到项目这三个层级。
 >
 >--阳志平
 
-![知识创造层次的图](https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/InfoKonwledgeCreate.png)
-<center> 知识创造各层级的区别 </center>
+<!--more-->
 
 卡片层级对输出来说有多重要？将作家理解为建筑师，你就明白——每次盖房子，比起从水泥等粗活干起，直接用预制材料来搭房子会更快更稳。普通人每次写作在干粗活，超一流作家如纳博科夫、钱钟书等，则是**拼接卡片**。
 
