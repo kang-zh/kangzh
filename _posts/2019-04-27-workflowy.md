@@ -14,7 +14,7 @@ categories:
 
 
 
-![知识创造层次的图](https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/InfoKonwledgeCreate.png) 
+![知识创造层次的图-c600](https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/InfoKonwledgeCreate.png) 
 
  知识创造各层级的区别 
 
