@@ -107,9 +107,11 @@ tags: [tool, selfedu]
 
 	![mwebtricks3.gif](https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/mwebtricks3.gif)
 
+
 3. 其它 MarkDown 标记比如 `#` ，以及各视图切换等常用操作，用 [MWeb 快捷键](http://ishanshan.zoomquiet.top/share/mwebtricks7.png)简化输入流程。
 
-![mwebtricks4.gif](https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/mwebtricks4.gif)
+ ![mwebtricks4.gif](https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/mwebtricks4.gif)
+
 
 这样下来，每周文档只含字符，图像影音托管给七牛云，单个文档即使万字，也就十来 k 。如此这般，该文档常开也不费劲儿，我想写的现在就写;-)
 
