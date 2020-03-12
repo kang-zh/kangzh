@@ -14,9 +14,9 @@ categories:
 
 
 
-<div align=center>![知识创造层次的图](https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/InfoKonwledgeCreate.png) 
+![知识创造层次的图](https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/InfoKonwledgeCreate.png) 
 
-<center> 知识创造各层级的区别 </center>
+ 知识创造各层级的区别 
 
 >知识创造，可以分成三个层级：卡片、文件到项目这三个层级。
 >
