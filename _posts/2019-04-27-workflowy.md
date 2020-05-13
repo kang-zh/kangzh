@@ -12,7 +12,8 @@ categories:
 
 <blockquote class="blockquote-center">工具是辅助，输出作品才是目的。 </blockquote>
 
-<img style="display: block; margin: 0 auto;" src="https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/InfoKonwledgeCreate.png" alt="" />
+![](https://i.loli.net/2020/05/13/ByYaJsqtrxSNeM9.jpg)
+
 
 
 <center>知识创造各层级的区别</center>  
@@ -76,18 +77,18 @@ categories:
 
 内容如此繁多，我一般按 周-月-年 来安排处理工作区，以便管理：
 
-
-![工作日志动图](https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/DemoWorkflowyZoom2.gif)
+![DemoWorkflowyZoo](https://i.loli.net/2020/05/14/3rxFEo6knV7Icsz.gif)
 
 那些可持续积累调用的内容，则移到工作区之外。比如：
 
-![其它区域动图](https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/DemoWorkflowyZoom3.gif)
+![DemoWorkflowyZoo](https://i.loli.net/2020/05/14/2qG1k6CzeDPnEwu.gif)
+
 
 你也许会喊，一个层级下节点如此多，怎么记得过来！于我，这不是我的工作台，很少长久于此停留，且可检索关键词，就算早超人类大脑最舒适的 4*5 层级，节点再多也无妨。
 
 至于工作以外的内容，我也按自己的兴趣和输入输出的需求，随心创建节点积累卡片：
+![DemoWorkflowyZoo](https://i.loli.net/2020/05/14/XQGWyPm816hSUeg.gif)
 
-![其它区域动图](https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/DemoWorkflowyZoom4.gif)
 
 当然这些也都是随心调整，没有绝对标准，只求想输出时能快速找到合适位置写下，想调用时能即时调取。
 
@@ -115,16 +116,14 @@ categories:
 WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键词条目筛选出来，这不特别，所有检索功能都这样。但搭配树形结构，便能挖掘不少新玩法。
 
 我常把常用关键词设定成标签，借助标签提取局部和整体的关系。举个例子：课程组委会每周多个角色协作，每个角色需要了解自己当周什么时候需要做什么，但并非每个角色都需关注所有本周所有角色的安排，那如何从整体快速剥离每个角色所需事务？ WorkFlowy 帮了大忙：设定涉及角色为标签，只要一点击，便可看到这个角色每周所需要跟进事务node：
+![DemoWorkflowyTagUsage2](https://i.loli.net/2020/05/14/JfW9RbozSagBU5I.gif)
 
-![动图展示](https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/DemoWorkflowyTagUsage2.gif)
 
 还可把筛选出的内容直接 `export` ，便可理出每个角色的检查清单：
-
-![单个角色检查清单图](https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/DemoWorkflowyTagUsage3.gif)
+![DemoWorkflowyTagUsage3](https://i.loli.net/2020/05/14/wkW3XQbdxMA2icm.gif)
 
 再看一例：每周事务繁多，我想了解自己当周在各类事务上所花时间，以判断过去一周的时间分配是否符合角色定位。有 WorkFlowy ，这事很简单——之前提到，我每天都在 WorkFlowy 中记录工作日志，在日志里加上事务类别标签及所用工时；到周末复盘，点击各标签就可统计各类事务所用时间，相加还可知晓当周自己不是迷迷糊糊、有产出的时长。比如：
-
-![ WorkFlowy 统计动图](https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/DemoWorkflowyTagUsage1.gif)
+![DemoWorkflowyTagUsage1](https://i.loli.net/2020/05/14/3V9PODSTEoZlkHt.gif)
 
 不过，若非有类似上述的特定目的，我几乎不用标签，一直没有用标签的习惯。且标签是云状结构，不符合人脑工作特点。详见 MIT 认知科学家 [Joshua B. Tenenbaum](https://scholar.google.com/citations?user=rRJ9wTJMUB8C&hl=zh-CN) 这篇被引用 330 次的论文 [The discovery of structural form](http://www.pnas.org/content/105/31/10687.full) ，或阳志平先生在 [Zotero（2）：作为知识管理工具的Zotero - 阳志平的网志](http://www.yangzhiping.com/tech/zotero2.html) 的解读：
 
@@ -150,8 +149,8 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 所以我一般**保持全局视图**。要看某个节点时展开就好，毕竟视窗就那么点，也看不到太多干扰，还方便上下滚动屏幕，查看或拖动节点。
 
 如果的确有几个层级较深且常需切换的节点，我会 star 这些节点，然后利用 WorkFlowy switch between pages 的快捷键 `CMD+;` 切换：
+![hbworkflowysta](https://i.loli.net/2020/05/14/vGIcQe4nU85ZpCa.gif)
 
-![](https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/hbworkflowystar2.gif?imageView2/2/w/750)
 
 ### 期望过奢，用于文件层级
 
