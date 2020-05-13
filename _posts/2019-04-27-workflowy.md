@@ -12,7 +12,7 @@ categories:
 
 <blockquote class="blockquote-center">工具是辅助，输出作品才是目的。 </blockquote>
 
-<img style="display: block; margin: 0 auto;" src="https://raw.githubusercontent.com/kang-zh/yunimage/master/blog/InfoKonwledgeCreate.png" alt="" />
+<img style="display: block; margin: 0 auto;" src="https://i.loli.net/2020/05/13/ByYaJsqtrxSNeM9.jpg" alt="" />
 
 
 <center>知识创造各层级的区别</center>  
