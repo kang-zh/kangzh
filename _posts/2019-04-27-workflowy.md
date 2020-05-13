@@ -108,16 +108,12 @@ categories:
 >我提过多次的 MIT 认知科学家 [Joshua B. Tenenbaum](https://scholar.google.com/citations?user=rRJ9wTJMUB8C&hl=zh-CN)  发表在 PNAS 的论文（ [The discovery of structural form](http://www.pnas.org/content/105/31/10687.full) ）中，比较了抽象知识的不同表征结构……最终还是意识到，人类的最佳知识结构是树形结构。只有树形结构，才是最符合人类认知特点的一种结构，从树的上一层到下一层，是具备唯一通道，便于大脑将知识从记忆底层快速提取出来，符合人类大脑是个认知吝啬鬼的特点；树又是兼具横向扩展与纵向扩展能力的最优雅的结构。
 >—— [Zotero（2）：作为知识管理工具的Zotero - 阳志平的网志](http://www.yangzhiping.com/tech/zotero2.html)
 
-
-
 ### 善用标签，提取局部关系
-
 
 WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键词条目筛选出来，这不特别，所有检索功能都这样。但搭配树形结构，便能挖掘不少新玩法。
 
 我常把常用关键词设定成标签，借助标签提取局部和整体的关系。举个例子：课程组委会每周多个角色协作，每个角色需要了解自己当周什么时候需要做什么，但并非每个角色都需关注所有本周所有角色的安排，那如何从整体快速剥离每个角色所需事务？ WorkFlowy 帮了大忙：设定涉及角色为标签，只要一点击，便可看到这个角色每周所需要跟进事务node：
 ![DemoWorkflowyTagUsage2](https://i.loli.net/2020/05/14/JfW9RbozSagBU5I.gif)
-
 
 还可把筛选出的内容直接 `export` ，便可理出每个角色的检查清单：
 ![DemoWorkflowyTagUsage3](https://i.loli.net/2020/05/14/wkW3XQbdxMA2icm.gif)
@@ -126,11 +122,7 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 ![DemoWorkflowyTagUsage1](https://i.loli.net/2020/05/14/3V9PODSTEoZlkHt.gif)
 
 不过，若非有类似上述的特定目的，我几乎不用标签，一直没有用标签的习惯。且标签是云状结构，不符合人脑工作特点。详见 MIT 认知科学家 [Joshua B. Tenenbaum](https://scholar.google.com/citations?user=rRJ9wTJMUB8C&hl=zh-CN) 这篇被引用 330 次的论文 [The discovery of structural form](http://www.pnas.org/content/105/31/10687.full) ，或阳志平先生在 [Zotero（2）：作为知识管理工具的Zotero - 阳志平的网志](http://www.yangzhiping.com/tech/zotero2.html) 的解读：
-
-
-
 >Tag 系统与树形结构相反，它实质上是非常违背人们学习与记忆提取的规律的。尤其当 Tag 更多是 Tag，而不是树形结构的时候。它是个云形结构，会随着时间变迁而动荡。记忆恰巧需要的不是这类时间动荡。
-
 
 ## 请别这么玩 WorkFlowy
 
@@ -139,8 +131,6 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 不时遇到一些朋友用 WorkFlowy 网页版，网络不稳定、加载慢，扭头就跟我说，你推荐那玩意儿不好使啊……
 
 呃。PC 请使用 [WorkFlowy **desktop App**](https://blog.workflowy.com/2017/10/19/the-workflowy-desktop-app-has-arrived/) 。你遇到的那些问题是网页应用常有之痛，明知山有虎偏向虎山行，我也爱莫能助。
-
-
 
 ### 经常点进、退出节点
 
@@ -151,10 +141,7 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 如果的确有几个层级较深且常需切换的节点，我会 star 这些节点，然后利用 WorkFlowy switch between pages 的快捷键 `CMD+;` 切换：
 ![hbworkflowysta](https://i.loli.net/2020/05/14/vGIcQe4nU85ZpCa.gif)
 
-
 ### 期望过奢，用于文件层级
-
-
 
 时有朋友吐槽，WorkFlowy 这玩意儿写文章体验很糟糕啊，写一段一段的文字时体验很差。甚至国内有团队，改造 WorkFlowy 增加写文章、插图、新建文档及文件夹等功能开发了一款应用。
 
@@ -168,21 +155,16 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 项目层级亦有章法，对应工具和工作流，咱们下次再聊 ;-)
 
-
 ## 小结
-
 
 工具是辅助，输出作品才是目的。路漫漫其修远，愿你我都能找到各情境泰然处之之势 :)
 
-
 ---
-
 
 PS.
 
 1. 如果你看到这篇文章想注册 WorkFlowy ，欢迎使用我的邀请链接注册，哈哈你懂的：I've been using WorkFlowy to organize my life, and thought you might like it. If you want to check it out, here's an invite link that gets you 2x more free space: <https://workflowy.com/invite/716a86ac.lnx>
 2. 此文转载自 [ishanshan's blog](https://ishanshan.im/selfedu/HbOutputOwetoWorkFlowy.html) ；原文博客很久未维护，图片已经不显示，转此留存。且删减部分。
-
 
 ## CHANGELOG
 
